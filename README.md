@@ -7,10 +7,10 @@ With the rapid development of the Web, multimodal data consisting of text and im
 
 <img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/d975191241b5269947405337dbcce73ed5d8f46a/images/yelp.png" alt="drawing" width="500" height="300"/>
 2. Experimental results of different models on Multi-ZOL.
-<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/d975191241b5269947405337dbcce73ed5d8f46a/images/multi-zol.png" alt="drawing" width="600" height="300"/>
+<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/d975191241b5269947405337dbcce73ed5d8f46a/images/multi-zol.png" alt="drawing" width="500" height="250"/>
 3. Ablation analysis of the proposed model. Here, HS denotes Hierarchical Structure, WA denotes Word Attention, and SAL denotes Sentence Later-Attention.
-<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/c6e612115e24d3c04931ac5fd2335bb678f43463/images/ablation.png" alt="drawing" width="600" height="300"/>
+<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/c6e612115e24d3c04931ac5fd2335bb678f43463/images/ablation.png" alt="drawing" width="500" height="250"/>
 4. Modality interaction of VAGU.
-<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/8f1d4a46a97aebf5f4b6eea6eef45e890d01f4a9/images/interaction.png" alt="drawing" width="600" height="300"/>
+<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/8f1d4a46a97aebf5f4b6eea6eef45e890d01f4a9/images/interaction.png" alt="drawing" width="500" height="200"/>
 5. Gate function of VAGU.
-<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/8f1d4a46a97aebf5f4b6eea6eef45e890d01f4a9/images/gatefunction.png" alt="drawing" width="550" height="300"/>
+<img src="https://github.com/lln1997/Multimodal-Sentiment-Analysis/blob/8f1d4a46a97aebf5f4b6eea6eef45e890d01f4a9/images/gatefunction.png" alt="drawing" width="500" height="200"/>
